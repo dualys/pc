@@ -19,3 +19,6 @@
 [submodule "maat"]
 	path = maat
 	url = https://github.com/dualys/maat.git
+[submodule "wuu"]
+	path = wuu
+	url = https://github.com/dualys/wuu.git
