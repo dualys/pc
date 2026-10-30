@@ -25,3 +25,6 @@
 [submodule "maaty"]
 	path = maaty
 	url = https://github.com/dualys/maat.git
+[submodule "plans"]
+	path = plans
+	url = https://github.com/dualys/plan.git
