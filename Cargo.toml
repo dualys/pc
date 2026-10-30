@@ -1,5 +1,5 @@
 [workspace]
-members = [ "re", "ra", "jinshu", "kpack", "noun" , "maat", "plan"]
+members = [ "re", "ra", "jinshu", "kpack", "noun" , "maat", "plan", "wuu" ]
 resolver = "3"
 [profile.dev]
 opt-level = 2
@@ -23,6 +23,7 @@ ra = { path = "ra" }
 plan = { path = "plan" }
 jinshu = { path = "jinshu" }
 noun = { path = "noun" }
+wuu = { path = "wuu" }
 blake3 = { version = "1.8.6", default-features = false }
 heapless = { version = "0.9.3", default-features = false }
 x86_64 = { version = "0.15.5", default-features = false, features = [
